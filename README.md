@@ -4,7 +4,7 @@
 【基础配置】
 - [x] 打包JS
 - [x] 编译ES6
-- 编译typeScript
+- [x] 编译typeScript
 - 打包公共代码
 - 代码分割和懒加载
 - 打包css
